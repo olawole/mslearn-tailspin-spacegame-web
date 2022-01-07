@@ -1,3 +1,4 @@
+[![Build Status](https://olawolexyoni.visualstudio.com/DevopsTraining/_apis/build/status/olawole.mslearn-tailspin-spacegame-web?branchName=build-pipeline)](https://olawolexyoni.visualstudio.com/DevopsTraining/_build/latest?definitionId=3&branchName=build-pipeline)
 
 # Contributing
 
